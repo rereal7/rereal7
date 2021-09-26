@@ -1,4 +1,6 @@
-- Hi there, I'm Takuya Kogawa.
+<p align="center">
+  Hi there, I'm Takuya Kogawa.
+</p>
 
 <p align="left">
   <img alt="" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rereal7&layout=compact&theme=radical">
