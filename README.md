@@ -2,7 +2,7 @@
   Hi there, I'm Takuya Kogawa.
 </p>
 
-<p align="left">
+<p align="center">
   <img alt="" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rereal7&layout=compact&theme=radical">
   <img alt="" height="150px" src="https://github-readme-stats.vercel.app/api?username=rereal7&theme=radical">
 </p>
