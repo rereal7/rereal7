@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <img alt="" height="150px" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rereal7&theme=radical">
+  <img alt="" height="150px" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rereal7&theme=solarized_dark	">
 </p>
 <p align="center">
   <img alt="" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rereal7&layout=compact&theme=radical">
