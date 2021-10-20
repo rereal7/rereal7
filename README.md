@@ -3,9 +3,9 @@
 </h1>
 
 <p align="center">
-  <img alt="" height="150px" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rereal7&theme=solarized_dark">
+  <img alt="" height="150px" width="300px" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rereal7&theme=solarized_dark">
 </p>
 <p align="center">
-  <img alt="" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rereal7&layout=compact&theme=radical">
-  <img alt="" height="150px" src="https://github-readme-stats.vercel.app/api?username=rereal7&show_icons=true&count_private=true&theme=radical">
+  <img alt="" height="150px" width="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rereal7&layout=compact&theme=radical">
+  <img alt="" height="150px" width="150px" src="https://github-readme-stats.vercel.app/api?username=rereal7&show_icons=true&count_private=true&theme=radical">
 </p>
