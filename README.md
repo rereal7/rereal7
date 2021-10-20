@@ -7,6 +7,9 @@
   <img alt="" height="150px" src="https://github-readme-stats.vercel.app/api?username=rereal7&show_icons=true&count_private=true&theme=radical">
 </p>
 
+<p>
+  <img alt="" height="150px" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rereal7&theme=radical">
+<?p>
 
 
 
