@@ -1,5 +1,5 @@
 <h1 align="center">
-  Hi , I'm Takuya Kogawa.
+  Hi , I'm rereal7.
 </h1>
 
 <p align="center">
